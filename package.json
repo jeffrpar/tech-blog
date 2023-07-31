@@ -1,0 +1,12 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "A repository for a mock tech blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
