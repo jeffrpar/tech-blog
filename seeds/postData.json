@@ -1,0 +1,20 @@
+[
+    {
+        "title": "The Rise of Artificial Intelligence",
+        "description": "Explore the fascinating world of Artificial Intelligence and its impact on various industries. Discover how AI is transforming businesses and reshaping our daily lives.",
+        "date_created": "2023-07-31",
+        "user_id": 1
+    },
+    {
+        "title": "Demystifying Blockchain: A Beginner's Guide",
+        "description": "Unravel the complexities of blockchain technology and its applications beyond cryptocurrencies. Learn about the decentralized nature of blockchain, smart contracts, and potential use cases in finance, supply chain, and more.",
+        "date_created": "2023-07-30",
+        "user_id": 2
+    },
+    {
+        "title": "The Rise of Artificial Intelligence",
+        "description": "Explore the fascinating world of Artificial Intelligence and its impact on various industries. Discover how AI is transforming businesses and reshaping our daily lives.",
+        "date_created": "2023-07-31",
+        "user_id": 3
+    }
+]
